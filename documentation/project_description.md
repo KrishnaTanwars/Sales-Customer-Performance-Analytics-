@@ -26,7 +26,7 @@ The **Sales & Customer Performance Analytics** project transforms raw transactio
 1. **Schema & Normalization:** `01_database_schema.sql` establishes 5 core tables (`markets`, `customers`, `products`, `targets`, `sales_transactions`) with strict data integrity rules.
 2. **Data Pipeline & Auditing:** `02_data_loading.sql` & `03_data_quality.sql` ensure clean data ingestion, checking row counts, duplicate transaction IDs, orphan foreign keys, and date/numeric sanity.
 3. **Core & Advanced SQL Analysis:** `04_sales_analysis.sql` through `09_advanced_analysis.sql` address 25+ business questions covering revenue trends, customer lifetime value, category contribution %, target achievement, and MoM growth trajectories.
-4. **Business Intelligence Deliverables:** Complete data dictionary, empirical insights, strategic recommendations, screen recording presentation script, and interview preparation guide.
+4. **Business Intelligence Deliverables:** Complete data dictionary, empirical insights, strategic recommendations, and interview preparation guide.
 
 ### Core Metrics Summary:
 - **Total Revenue:** $167,693,927.24

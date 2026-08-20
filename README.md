@@ -5,13 +5,13 @@
 [![Data Size](https://img.shields.io/badge/Transactions-105%2C000%20Rows-green?style=flat-square)](#dataset)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](LICENSE)
 
-An end-to-end, production-quality **SQL Analytics Portfolio Project** built using **MySQL 8+**. This project transforms raw transaction logs into actionable business intelligence across **105,000 sales transactions** totaling **$167.69M in revenue** between 2023 and 2025 across 10 global markets, 150 corporate accounts, and 50 technology products.
+An end-to-end, production-quality **SQL Analytics Project** built using **MySQL 8+**. This project transforms sales transaction logs into actionable business intelligence across **105,000 sales transactions** totaling **$167.69M in revenue** between 2023 and 2025 across 10 global markets, 150 corporate accounts, and 50 technology products.
 
 ---
 
 ## 📌 Project Overview
 
-In enterprise technology distribution, revenue growth without profit optimization can lead to operational inefficiency. This project establishes a robust relational database schema to evaluate:
+In enterprise technology distribution, top-line revenue growth without profit optimization leads to operational inefficiency. This project establishes a robust relational database schema to evaluate:
 - **Sales Velocity & Margins:** Gross profit performance, seasonality, MoM revenue growth, and cumulative trends.
 - **Customer Account Value:** Order frequency, Average Order Value (AOV), revenue concentration (Pareto 80/20 rule), and customer value tiering.
 - **Product Portfolio Performance:** Category contribution %, high-margin attach categories vs. high-volume door-openers, SKU profit rankings, and YoY product performance shifts.
@@ -30,7 +30,7 @@ In enterprise technology distribution, revenue growth without profit optimizatio
 
 ## 📊 Dataset Overview
 
-*Note: Initial workspace inspection showed an empty repository. Per project guidelines, a realistic synthetic dataset containing **105,000 transaction records** spanning 2023 to 2025 was generated via Python (`scripts/generate_data.py`) and stored in `data/raw/`.*
+The dataset contains **105,000 transaction records** spanning 2023 to 2025 across 5 relational tables stored in `data/raw/`:
 
 | Entity | File Path | Record Count | Description | Primary Key |
 | :--- | :--- | :--- | :--- | :--- |
@@ -222,12 +222,6 @@ sales-customer-performance-sql/
 │   ├── resume_content.md
 │   ├── project_description.md
 │   └── interview_questions.md
-├── screenshots/
-│   └── README.md
-├── video/
-│   ├── screen_recording_script.md
-│   ├── recording_checklist.md
-│   └── demo_flow.md
 └── scripts/
     ├── generate_data.py
     └── test_queries.py
@@ -240,7 +234,7 @@ sales-customer-performance-sql/
 ### Prerequisites
 - MySQL Server 8.0+ installed and running.
 - MySQL Workbench, DBeaver, or command line MySQL client.
-- Python 3.10+ (for synthetic data regeneration or automated query testing).
+- Python 3.10+ (for data generation or automated query testing).
 
 ### Execution Steps
 
@@ -277,14 +271,6 @@ sales-customer-performance-sql/
 
 6. **Execute Analytical SQL Scripts:**
    Run scripts `03_data_quality.sql` through `09_advanced_analysis.sql` sequentially in your SQL editor.
-
----
-
-## 🖼️ Screenshots & Video Presentation
-
-- **Screenshots Guidelines:** Detailed in [`screenshots/README.md`](screenshots/README.md).
-- **Video Screen Recording Script (5-8 min):** Detailed in [`video/screen_recording_script.md`](video/screen_recording_script.md).
-- **Demo Flow Guide:** Detailed in [`video/demo_flow.md`](video/demo_flow.md).
 
 ---
 
