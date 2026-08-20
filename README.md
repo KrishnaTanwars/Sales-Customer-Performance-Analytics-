@@ -274,12 +274,6 @@ sales-customer-performance-sql/
 
 ---
 
-## 📜 Resume & Portfolio Highlights
-
-Ready-to-use resume bullets, skills list, and project metrics are available in [`documentation/resume_content.md`](documentation/resume_content.md) and [`documentation/interview_questions.md`](documentation/interview_questions.md).
-
----
-
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
