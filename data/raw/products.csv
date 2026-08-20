@@ -1,0 +1,51 @@
+product_code,product_name,category,sub_category,unit_cost,unit_price
+PROD_001,ProBook Ultrabook 14,Laptops & Desktops,Laptops,850.0,1199.99
+PROD_002,Workstation Tower ZX,Laptops & Desktops,Laptops,1400.0,1999.99
+PROD_003,Gaming Laptop Xtreme,Laptops & Desktops,Laptops,1200.0,1749.99
+PROD_004,SlimBook Air 13,Laptops & Desktops,Laptops,650.0,949.99
+PROD_005,Enterprise Desktop D5,Laptops & Desktops,Laptops,500.0,729.99
+PROD_006,Convertible 2-in-1 Touch,Laptops & Desktops,Laptops,750.0,1099.99
+PROD_007,Developer Studio Laptop,Laptops & Desktops,Laptops,1600.0,2299.99
+PROD_008,Budget Office PC,Laptops & Desktops,Laptops,320.0,479.99
+PROD_009,Mini Form Factor PC,Laptops & Desktops,Laptops,410.0,599.99
+PROD_010,Rugged Industrial Laptop,Laptops & Desktops,Laptops,1800.0,2599.99
+PROD_011,Ergonomic Wireless Mouse,Peripherals & Accessories,Peripherals,22.0,49.99
+PROD_012,Mechanical RGB Keyboard,Peripherals & Accessories,Peripherals,45.0,99.99
+PROD_013,4K UHD 27-inch Monitor,Peripherals & Accessories,Peripherals,180.0,349.99
+PROD_014,Curved Ultrawide 34-inch Monitor,Peripherals & Accessories,Peripherals,320.0,599.99
+PROD_015,Noise-Canceling USB Headset,Peripherals & Accessories,Peripherals,35.0,79.99
+PROD_016,HD Pro Webcam 1080p,Peripherals & Accessories,Peripherals,28.0,64.99
+PROD_017,Thunderbolt 4 Docking Station,Peripherals & Accessories,Peripherals,90.0,189.99
+PROD_018,Dual Monitor Arm Stand,Peripherals & Accessories,Peripherals,30.0,69.99
+PROD_019,Wireless Presenter Remote,Peripherals & Accessories,Peripherals,12.0,29.99
+PROD_020,Desk Pad XL Felt,Peripherals & Accessories,Peripherals,8.0,19.99
+PROD_021,Enterprise Gigabit Router,Networking & Servers,Networking,210.0,420.0
+PROD_022,Managed 24-Port PoE Switch,Networking & Servers,Networking,280.0,549.99
+PROD_023,Wi-Fi 6E Mesh Access Point,Networking & Servers,Networking,110.0,229.99
+PROD_024,Rackmount Server Node 1U,Networking & Servers,Networking,2200.0,3499.99
+PROD_025,Hardware Firewall Appliance,Networking & Servers,Networking,450.0,899.99
+PROD_026,10GbE Fiber Transceiver,Networking & Servers,Networking,35.0,85.0
+PROD_027,Cat6A Ethernet Cable 100m,Networking & Servers,Networking,25.0,55.0
+PROD_028,VPN Gateway Pro,Networking & Servers,Networking,380.0,749.99
+PROD_029,Network Attached Storage 4-Bay,Networking & Servers,Networking,300.0,579.99
+PROD_030,Uninterruptible Power Supply 1500VA,Networking & Servers,Networking,140.0,269.99
+PROD_031,Internal NVMe SSD 2TB,Storage Solutions,Storage,70.0,139.99
+PROD_032,External Portable SSD 1TB,Storage Solutions,Storage,50.0,99.99
+PROD_033,Enterprise SAS Hard Drive 10TB,Storage Solutions,Storage,160.0,299.99
+PROD_034,High-Speed SD Card 256GB,Storage Solutions,Storage,18.0,39.99
+PROD_035,Internal SATA SSD 1TB,Storage Solutions,Storage,40.0,79.99
+PROD_036,Encrypted USB Flash Drive 128GB,Storage Solutions,Storage,22.0,49.99
+PROD_037,RAID Storage Expansion Array,Storage Solutions,Storage,850.0,1499.99
+PROD_038,Surveillance Hard Drive 8TB,Storage Solutions,Storage,130.0,239.99
+PROD_039,Cloud Backup Gateway Drive,Storage Solutions,Storage,110.0,219.99
+PROD_040,Ultra-Fast PCIe Gen5 SSD 4TB,Storage Solutions,Storage,190.0,369.99
+PROD_041,Smart Conference Speakerphone,Smart Office,Smart,85.0,179.99
+PROD_042,Interactive Smart Whiteboard 65,Smart Office,Smart,1500.0,2799.99
+PROD_043,Motorized Standing Desk,Smart Office,Smart,260.0,499.99
+PROD_044,Smart Desk LED Light Bar,Smart Office,Smart,25.0,59.99
+PROD_045,Biometric Door Access Scanner,Smart Office,Smart,140.0,289.99
+PROD_046,Air Quality Monitor Office,Smart Office,Smart,45.0,99.99
+PROD_047,Smart Power Strip Wi-Fi,Smart Office,Smart,15.0,34.99
+PROD_048,Wireless Charging Station 3-in-1,Smart Office,Smart,20.0,44.99
+PROD_049,Cable Management Tray Channel,Smart Office,Smart,10.0,24.99
+PROD_050,Document Scanner High-Speed,Smart Office,Smart,180.0,349.99

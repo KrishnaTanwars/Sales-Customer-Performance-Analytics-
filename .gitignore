@@ -1,0 +1,33 @@
+# OS Generated Files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+[Nn]otepad++*
+
+# IDE & Editor Cache
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Python Cache & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+
+# Database Credentials & Local Files
+*.pem
+*.key
+*.env
+*.log
+local_settings.sql
+
+# SQLite Test Databases (Local only)
+*.sqlite
+*.sqlite3
+*.db

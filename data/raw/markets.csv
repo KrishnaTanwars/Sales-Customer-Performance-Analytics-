@@ -1,0 +1,11 @@
+market_code,market_name,zone,region
+MKT_NA_E,North America East,North America,US East
+MKT_NA_W,North America West,North America,US West
+MKT_EU_C,Europe Central,Europe,Germany/DACH
+MKT_EU_UK,Europe UK & Ireland,Europe,UK & IE
+MKT_IN_N,India North,Asia Pacific,India Del/NCR
+MKT_IN_S,India South,Asia Pacific,India BLR/CHE
+MKT_APAC_SG,APAC Singapore & SEA,Asia Pacific,Southeast Asia
+MKT_APAC_JP,APAC Japan,Asia Pacific,Japan
+MKT_LATAM_BR,LATAM Brazil,Latin America,Brazil
+MKT_ME_DB,Middle East Dubai,Middle East,UAE/GCC

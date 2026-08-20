@@ -1,0 +1,151 @@
+customer_code,customer_name,customer_type,market_code
+CUST_001,Omni Systems #1,Brick & Mortar,MKT_IN_N
+CUST_002,Quantum Retail #2,E-Commerce,MKT_NA_W
+CUST_003,Omni Enterprise #3,Brick & Mortar,MKT_ME_DB
+CUST_004,Vanguard Tech #4,Brick & Mortar,MKT_NA_W
+CUST_005,Quantum Retail #5,Brick & Mortar,MKT_LATAM_BR
+CUST_006,Quantum Enterprise #6,Corporate Reseller,MKT_EU_UK
+CUST_007,Horizon Networks #7,Wholesale Distributor,MKT_NA_E
+CUST_008,Beacon Electronics #8,E-Commerce,MKT_APAC_SG
+CUST_009,Starlight Global #9,E-Commerce,MKT_EU_UK
+CUST_010,Beacon Logistics #10,Brick & Mortar,MKT_NA_W
+CUST_011,Vanguard Systems #11,Wholesale Distributor,MKT_IN_S
+CUST_012,Titan Global #12,Brick & Mortar,MKT_APAC_JP
+CUST_013,Pinnacle Systems #13,Corporate Reseller,MKT_NA_W
+CUST_014,Pinnacle Global #14,Wholesale Distributor,MKT_ME_DB
+CUST_015,Quantum Enterprise #15,Brick & Mortar,MKT_NA_E
+CUST_016,Omni Retail #16,Wholesale Distributor,MKT_NA_W
+CUST_017,Crest Retail #17,Brick & Mortar,MKT_APAC_SG
+CUST_018,Synergy Direct #18,Wholesale Distributor,MKT_EU_C
+CUST_019,Starlight Logistics #19,E-Commerce,MKT_IN_N
+CUST_020,Delta Mart #20,Brick & Mortar,MKT_ME_DB
+CUST_021,Omni Solutions #21,E-Commerce,MKT_EU_C
+CUST_022,Horizon Digital #22,Wholesale Distributor,MKT_LATAM_BR
+CUST_023,Quantum Mart #23,Wholesale Distributor,MKT_NA_E
+CUST_024,Quantum Tech #24,Wholesale Distributor,MKT_APAC_SG
+CUST_025,Synergy Systems #25,E-Commerce,MKT_ME_DB
+CUST_026,Summit Enterprise #26,Wholesale Distributor,MKT_EU_UK
+CUST_027,Omni Direct #27,Corporate Reseller,MKT_APAC_JP
+CUST_028,Vertex Global #28,E-Commerce,MKT_EU_UK
+CUST_029,Delta Hub #29,Wholesale Distributor,MKT_ME_DB
+CUST_030,Vanguard Networks #30,Corporate Reseller,MKT_IN_S
+CUST_031,Quantum Solutions #31,Corporate Reseller,MKT_NA_W
+CUST_032,Beacon Tech #32,Brick & Mortar,MKT_EU_C
+CUST_033,Omni Solutions #33,Corporate Reseller,MKT_ME_DB
+CUST_034,Nexus Digital #34,Corporate Reseller,MKT_ME_DB
+CUST_035,Horizon Hub #35,Wholesale Distributor,MKT_LATAM_BR
+CUST_036,Crest Tech #36,Brick & Mortar,MKT_LATAM_BR
+CUST_037,Beacon Global #37,Wholesale Distributor,MKT_NA_W
+CUST_038,Synergy Digital #38,E-Commerce,MKT_APAC_JP
+CUST_039,Apex Enterprise #39,Wholesale Distributor,MKT_LATAM_BR
+CUST_040,Beacon Solutions #40,Brick & Mortar,MKT_IN_N
+CUST_041,Crest Mart #41,E-Commerce,MKT_EU_C
+CUST_042,Starlight Electronics #42,E-Commerce,MKT_LATAM_BR
+CUST_043,Beacon Hub #43,Brick & Mortar,MKT_ME_DB
+CUST_044,Starlight Direct #44,Brick & Mortar,MKT_NA_W
+CUST_045,Summit Logistics #45,Wholesale Distributor,MKT_EU_UK
+CUST_046,Apex Retail #46,Brick & Mortar,MKT_NA_W
+CUST_047,Delta Direct #47,Brick & Mortar,MKT_LATAM_BR
+CUST_048,Beacon Solutions #48,E-Commerce,MKT_APAC_JP
+CUST_049,Pinnacle Solutions #49,Wholesale Distributor,MKT_LATAM_BR
+CUST_050,Crest Networks #50,Corporate Reseller,MKT_EU_UK
+CUST_051,Summit Hub #51,E-Commerce,MKT_IN_N
+CUST_052,Vanguard Mart #52,Wholesale Distributor,MKT_APAC_JP
+CUST_053,Summit Hub #53,Corporate Reseller,MKT_NA_W
+CUST_054,Quantum Retail #54,Brick & Mortar,MKT_IN_S
+CUST_055,Apex Networks #55,E-Commerce,MKT_ME_DB
+CUST_056,Quantum Tech #56,Brick & Mortar,MKT_NA_E
+CUST_057,Quantum Systems #57,Brick & Mortar,MKT_IN_S
+CUST_058,Nexus Hub #58,E-Commerce,MKT_IN_N
+CUST_059,Omni Direct #59,E-Commerce,MKT_LATAM_BR
+CUST_060,Vertex Enterprise #60,Corporate Reseller,MKT_EU_UK
+CUST_061,Beacon Direct #61,Corporate Reseller,MKT_EU_UK
+CUST_062,Nexus Systems #62,Corporate Reseller,MKT_IN_S
+CUST_063,Vanguard Digital #63,Corporate Reseller,MKT_NA_E
+CUST_064,Omni Mart #64,Brick & Mortar,MKT_NA_E
+CUST_065,Vanguard Enterprise #65,Wholesale Distributor,MKT_NA_W
+CUST_066,Quantum Retail #66,E-Commerce,MKT_LATAM_BR
+CUST_067,Horizon Solutions #67,Corporate Reseller,MKT_EU_C
+CUST_068,Synergy Direct #68,E-Commerce,MKT_NA_W
+CUST_069,Horizon Electronics #69,Brick & Mortar,MKT_NA_E
+CUST_070,Omni Hub #70,Brick & Mortar,MKT_NA_W
+CUST_071,Summit Electronics #71,E-Commerce,MKT_EU_C
+CUST_072,Vanguard Direct #72,Corporate Reseller,MKT_EU_UK
+CUST_073,Crest Digital #73,Brick & Mortar,MKT_EU_C
+CUST_074,Vanguard Tech #74,Corporate Reseller,MKT_IN_N
+CUST_075,Summit Electronics #75,Corporate Reseller,MKT_IN_N
+CUST_076,Vanguard Enterprise #76,Corporate Reseller,MKT_EU_C
+CUST_077,Quantum Global #77,E-Commerce,MKT_NA_E
+CUST_078,Titan Enterprise #78,Brick & Mortar,MKT_IN_S
+CUST_079,Apex Tech #79,Corporate Reseller,MKT_LATAM_BR
+CUST_080,Summit Hub #80,E-Commerce,MKT_NA_E
+CUST_081,Pinnacle Systems #81,E-Commerce,MKT_NA_W
+CUST_082,Titan Systems #82,E-Commerce,MKT_APAC_SG
+CUST_083,Nexus Networks #83,E-Commerce,MKT_ME_DB
+CUST_084,Titan Tech #84,Brick & Mortar,MKT_APAC_SG
+CUST_085,Omni Networks #85,Wholesale Distributor,MKT_IN_N
+CUST_086,Quantum Mart #86,Wholesale Distributor,MKT_EU_UK
+CUST_087,Synergy Digital #87,E-Commerce,MKT_IN_N
+CUST_088,Horizon Logistics #88,Brick & Mortar,MKT_NA_E
+CUST_089,Horizon Networks #89,Brick & Mortar,MKT_NA_W
+CUST_090,Pinnacle Retail #90,Wholesale Distributor,MKT_EU_C
+CUST_091,Summit Logistics #91,Brick & Mortar,MKT_EU_UK
+CUST_092,Starlight Global #92,E-Commerce,MKT_APAC_JP
+CUST_093,Crest Hub #93,Wholesale Distributor,MKT_ME_DB
+CUST_094,Beacon Mart #94,Brick & Mortar,MKT_LATAM_BR
+CUST_095,Synergy Mart #95,Brick & Mortar,MKT_EU_C
+CUST_096,Synergy Systems #96,Brick & Mortar,MKT_LATAM_BR
+CUST_097,Vertex Global #97,Wholesale Distributor,MKT_ME_DB
+CUST_098,Quantum Enterprise #98,Wholesale Distributor,MKT_EU_UK
+CUST_099,Omni Mart #99,Wholesale Distributor,MKT_LATAM_BR
+CUST_100,Horizon Global #100,Brick & Mortar,MKT_NA_W
+CUST_101,Omni Digital #101,Wholesale Distributor,MKT_NA_E
+CUST_102,Apex Logistics #102,E-Commerce,MKT_IN_N
+CUST_103,Vertex Enterprise #103,Corporate Reseller,MKT_LATAM_BR
+CUST_104,Delta Digital #104,Brick & Mortar,MKT_NA_W
+CUST_105,Nexus Enterprise #105,E-Commerce,MKT_LATAM_BR
+CUST_106,Apex Logistics #106,E-Commerce,MKT_APAC_SG
+CUST_107,Vertex Tech #107,Wholesale Distributor,MKT_IN_S
+CUST_108,Summit Electronics #108,Brick & Mortar,MKT_IN_S
+CUST_109,Quantum Mart #109,E-Commerce,MKT_NA_W
+CUST_110,Starlight Electronics #110,Corporate Reseller,MKT_ME_DB
+CUST_111,Delta Solutions #111,E-Commerce,MKT_EU_C
+CUST_112,Beacon Electronics #112,E-Commerce,MKT_APAC_SG
+CUST_113,Apex Solutions #113,Wholesale Distributor,MKT_APAC_SG
+CUST_114,Beacon Mart #114,E-Commerce,MKT_IN_N
+CUST_115,Vertex Electronics #115,Brick & Mortar,MKT_APAC_SG
+CUST_116,Crest Tech #116,Corporate Reseller,MKT_EU_UK
+CUST_117,Quantum Direct #117,Wholesale Distributor,MKT_IN_N
+CUST_118,Crest Electronics #118,E-Commerce,MKT_EU_UK
+CUST_119,Apex Mart #119,E-Commerce,MKT_APAC_SG
+CUST_120,Starlight Global #120,Brick & Mortar,MKT_IN_N
+CUST_121,Starlight Mart #121,Corporate Reseller,MKT_LATAM_BR
+CUST_122,Starlight Tech #122,Brick & Mortar,MKT_IN_N
+CUST_123,Vertex Networks #123,Wholesale Distributor,MKT_NA_E
+CUST_124,Nexus Networks #124,Corporate Reseller,MKT_IN_S
+CUST_125,Delta Electronics #125,Wholesale Distributor,MKT_APAC_SG
+CUST_126,Titan Hub #126,Brick & Mortar,MKT_APAC_SG
+CUST_127,Summit Networks #127,E-Commerce,MKT_IN_N
+CUST_128,Apex Enterprise #128,Corporate Reseller,MKT_NA_E
+CUST_129,Pinnacle Electronics #129,E-Commerce,MKT_IN_S
+CUST_130,Vanguard Systems #130,Wholesale Distributor,MKT_ME_DB
+CUST_131,Starlight Mart #131,Brick & Mortar,MKT_IN_N
+CUST_132,Pinnacle Global #132,Corporate Reseller,MKT_IN_S
+CUST_133,Vanguard Enterprise #133,Wholesale Distributor,MKT_LATAM_BR
+CUST_134,Vertex Retail #134,Corporate Reseller,MKT_APAC_SG
+CUST_135,Omni Enterprise #135,E-Commerce,MKT_ME_DB
+CUST_136,Titan Global #136,Corporate Reseller,MKT_LATAM_BR
+CUST_137,Crest Tech #137,Wholesale Distributor,MKT_IN_N
+CUST_138,Quantum Digital #138,Wholesale Distributor,MKT_APAC_JP
+CUST_139,Horizon Direct #139,E-Commerce,MKT_LATAM_BR
+CUST_140,Horizon Electronics #140,E-Commerce,MKT_NA_W
+CUST_141,Synergy Hub #141,Wholesale Distributor,MKT_NA_W
+CUST_142,Crest Electronics #142,E-Commerce,MKT_IN_N
+CUST_143,Quantum Electronics #143,E-Commerce,MKT_EU_C
+CUST_144,Apex Tech #144,E-Commerce,MKT_APAC_JP
+CUST_145,Titan Electronics #145,Brick & Mortar,MKT_APAC_JP
+CUST_146,Vanguard Mart #146,E-Commerce,MKT_APAC_SG
+CUST_147,Horizon Digital #147,E-Commerce,MKT_EU_C
+CUST_148,Omni Enterprise #148,Brick & Mortar,MKT_NA_W
+CUST_149,Beacon Digital #149,E-Commerce,MKT_EU_C
+CUST_150,Beacon Enterprise #150,Corporate Reseller,MKT_NA_E
