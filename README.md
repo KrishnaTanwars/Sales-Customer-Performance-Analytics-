@@ -45,7 +45,7 @@ In enterprise technology distribution, revenue growth without profit optimizatio
 ## 🗄️ Database Schema & Data Model
 
 ```mermaid
-erdiagram
+erDiagram
     markets ||--o{ customers : "locates in"
     markets ||--o{ targets : "has monthly target"
     markets ||--o{ sales_transactions : "conducted in"
@@ -53,41 +53,41 @@ erdiagram
     products ||--o{ sales_transactions : "purchased in"
 
     markets {
-        varchar market_code PK
-        varchar market_name UK
-        varchar zone
-        varchar region
+        string market_code PK
+        string market_name UK
+        string zone
+        string region
     }
 
     customers {
-        varchar customer_code PK
-        varchar customer_name
-        varchar customer_type
-        varchar market_code FK
+        string customer_code PK
+        string customer_name
+        string customer_type
+        string market_code FK
     }
 
     products {
-        varchar product_code PK
-        varchar product_name
-        varchar category
-        varchar sub_category
+        string product_code PK
+        string product_name
+        string category
+        string sub_category
         decimal unit_cost
         decimal unit_price
     }
 
     targets {
-        varchar market_code PK,FK
+        string market_code PK
         int target_year PK
         int target_month PK
         decimal target_sales
     }
 
     sales_transactions {
-        varchar transaction_id PK
+        string transaction_id PK
         date order_date
-        varchar customer_code FK
-        varchar product_code FK
-        varchar market_code FK
+        string customer_code FK
+        string product_code FK
+        string market_code FK
         int order_qty
         decimal unit_price
         decimal unit_cost
